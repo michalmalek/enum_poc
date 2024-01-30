@@ -1,0 +1,18 @@
+{
+    "name": "mmalek/enum_test",
+    "autoload": {
+        "psr-4": {
+            "Mmalek\\EnumTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michał Małek",
+            "email": "michal.malek1988@gmail.com"
+        }
+    ],
+    "require": {
+        "myclabs/php-enum": "^1.8",
+        "symfony/var-dumper": "^7.0"
+    }
+}
